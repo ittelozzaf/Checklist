@@ -220,6 +220,14 @@
     "Orden": "Anura",
     "Familia": "Alytidae",
     "Genero": "Alytes",
+    "Especie": "Alytes almogavarii",
+    "URL": null
+  },
+  {
+    "Clase": "Amphibia",
+    "Orden": "Anura",
+    "Familia": "Alytidae",
+    "Genero": "Alytes",
     "Especie": "Alytes cisternasii",
     "URL": "https://www.daviddopereiro.com/spain-amphibians?pgid=ivmbx5xj-91efa293-bcef-433f-b7a3-f795ac46e123"
   },
@@ -1356,7 +1364,7 @@
     "Orden": "Squamata",
     "Familia": "Lacertidae",
     "Genero": "Algyroides",
-    "Especie": "Algyroides marchi",
+    "Especie": "Algyroides hidalgoi",
     "URL": null
   },
   {
@@ -1916,7 +1924,7 @@
     "Orden": "Squamata",
     "Familia": "Lacertidae",
     "Genero": "Zootoca",
-    "Especie": "Zootoca carniolica<U+200B><U+200B>",
+    "Especie": "Zootoca carniolica​​",
     "URL": null
   },
   {
@@ -1924,7 +1932,7 @@
     "Orden": "Squamata",
     "Familia": "Lacertidae",
     "Genero": "Zootoca",
-    "Especie": "Zootoca vivipara<U+200B>",
+    "Especie": "Zootoca vivipara​",
     "URL": "https://www.daviddopereiro.com/spain-reptiles?pgid=iv6t1w66-6d3a560a-e40d-4ced-acdd-d02c568f1b5e"
   },
   {
@@ -1932,7 +1940,7 @@
     "Orden": "Squamata",
     "Familia": "Blanidae",
     "Genero": "Blanus",
-    "Especie": "Blanus cinereus",
+    "Especie": "Blanus oxyurus",
     "URL": null
   },
   {
@@ -2195,8 +2203,8 @@
     "Clase": "Reptilia",
     "Orden": "Squamata",
     "Familia": "Gekkonidae",
-    "Genero": "<U+200B>Trigonodactylus",
-    "Especie": "<U+200B>Trigonodactylus arabicus",
+    "Genero": "​Trigonodactylus",
+    "Especie": "​Trigonodactylus arabicus",
     "URL": "https://www.daviddopereiro.com/united-arab-emirates?pgid=ma84rs9p7-e79bf6d9-3ad7-44e6-b767-a41ffe3ddcf8"
   },
   {
@@ -2396,7 +2404,7 @@
     "Orden": "Squamata",
     "Familia": "Sphaerodactylidae",
     "Genero": "Teratoscincus",
-    "Especie": "Teratoscincus keyserlingii<U+200B><U+200B>",
+    "Especie": "Teratoscincus keyserlingii​​",
     "URL": "https://www.daviddopereiro.com/united-arab-emirates?pgid=ma84rs9p7-faeb1fd9-a07e-4b9c-a503-61bb9822bc90"
   },
   {
@@ -2732,7 +2740,7 @@
     "Orden": "Squamata",
     "Familia": "Colubridae",
     "Genero": "Rabdophis",
-    "Especie": "Rabdophis�sp.",
+    "Especie": "Rabdophis sp.",
     "URL": null
   },
   {
@@ -2884,7 +2892,7 @@
     "Orden": "Squamata",
     "Familia": "Leptotyphlopidae",
     "Genero": "Myriopholis",
-    "Especie": "Myriopholis macrorhyncha�",
+    "Especie": "Myriopholis macrorhyncha ",
     "URL": "https://www.daviddopereiro.com/united-arab-emirates?pgid=ma84rs9p7-53f9b1ba-a4f9-494e-8ab1-09d296e06af2"
   },
   {
