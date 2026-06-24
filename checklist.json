@@ -1836,7 +1836,7 @@
     "Orden": "Squamata",
     "Familia": "Lacertidae",
     "Genero": "Podarchis",
-    "Especie": "Podarchis thais",
+    "Especie": "Podarcis thais",
     "URL": "https://www.daviddopereiro.com/greece?pgid=l371hlea-e8c1f406-2aae-44c8-8dfa-633b1e2fd04b"
   },
   {
@@ -3942,5 +3942,29 @@
     "Genero": "Ommatotriton",
     "Especie": "Ommatotriton vittatus",
     "URL": null
+  },
+  {
+    "Clase": "Reptilia",
+    "Orden": "Squamata",
+    "Familia": "Lacertidae",
+    "Genero": "Gallotia",
+    "Especie": "Gallotia caesaris",
+    "URL": "https://www.daviddopereiro.com/spain-insular-herps?pgid=lb871bsi6-5c9d9414-6f7d-48d5-8c7f-f1e7584ab03f"
+  },
+  {
+    "Clase": "Reptilia",
+    "Orden": "Squamata",
+    "Familia": "Scincidae",
+    "Genero": "Chalcides",
+    "Especie": "Chalcides coeruleopunctatus",
+    "URL": "https://www.daviddopereiro.com/spain-insular-herps?pgid=lb871bsi6-324d744d-caa4-453d-af02-0bf72b45d1b5"
+  },
+  {
+    "Clase": "Reptilia",
+    "Orden": "Squamata",
+    "Familia": "Phyllodactylidae",
+    "Genero": "Tarentola",
+    "Especie": "Tarentola gomerensis",
+    "URL": "https://www.daviddopereiro.com/spain-insular-herps?pgid=lb871bsi6-43e1f8cf-5145-4355-bae7-dc242c283bcf"
   }
 ]
